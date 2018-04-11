@@ -1,4 +1,4 @@
-export DIR=pwd
+export DIR=`pwd`
 sudo apt install gradle
 sudo apt build-dep wine
 sudo apt build-dep qemu
